@@ -14,7 +14,7 @@ namespace exelent_awall
         }
 
         public static int hitselect; //for hitbox selectors
-        public static int hitted;    //firt healt
+        public static int hitted;    //firt health
         public static int hitted1;   //hitted health
 
         public static void awall_spinmove() // currently not working
